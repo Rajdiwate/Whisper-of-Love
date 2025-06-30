@@ -14,11 +14,10 @@ const quotes = [
 ]
 
 const memories = [
-  { title: "First Convo", description: "The moment I knew you were special", emoji: "✨" },
-  { title: "Our First Date", description: "When time stood still.. In my dreams", emoji: "🌹" },
+  { title: "First Meeting", description: "The moment I knew you were special", emoji: "✨" },
+  { title: "Our First Date", description: "When time stood still", emoji: "🌹" },
   { title: "Your Laugh", description: "The sound that makes everything better", emoji: "😊" },
-  { title: "Dancing", description: "Moving to your own rhythm", emoji: "💃" },
-  { title: "Ohh Shit Fuck Man", description: "Your Loving Dialog", emoji: "☠️" },
+  { title: "Dancing Together", description: "Moving to our own rhythm", emoji: "💃" },
 ]
 
 const FloatingElement = ({ children, delay = 0 }: { children: React.ReactNode; delay?: number }) => (
