@@ -96,7 +96,7 @@ export default function Component() {
             >
               <div className="absolute inset-0 bg-gradient-to-r from-pink-400 to-rose-400 rounded-full blur-xl opacity-30 animate-pulse" />
               <h1 className="relative text-6xl md:text-8xl font-bold bg-gradient-to-r from-pink-600 via-rose-500 to-purple-600 bg-clip-text text-transparent">
-                Hey Beautiful
+                Hey Beautiful Bu
               </h1>
             </motion.div>
 
